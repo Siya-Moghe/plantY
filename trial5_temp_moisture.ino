@@ -1,8 +1,8 @@
 #define BLYNK_PRINT Serial
 
-#define BLYNK_TEMPLATE_ID "TMPL3mFOUENAl"
-#define BLYNK_TEMPLATE_NAME "smart plant"
-#define BLYNK_AUTH_TOKEN "YjiRtRDm5mWKZ6B5_mz0hHmMjc9HP0v-"
+#define BLYNK_TEMPLATE_ID "Your Template ID"
+#define BLYNK_TEMPLATE_NAME "Your Template Name"
+#define BLYNK_AUTH_TOKEN "Your auth-token"
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
@@ -17,8 +17,8 @@
 
 DHT dht(DPIN,DTYPE);
 
-char ssid[] = "Siya <3";
-char pass[] = "Siya@wifi!";
+char ssid[] = "Your ssid";
+char pass[] = "Your password";
 
 
 //BLYNK_WRITE(V3)
