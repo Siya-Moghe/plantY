@@ -19,6 +19,10 @@ the code was writtin on arduino IDE.
 ## Hardware Setup
 - Connect the DHT sensor to GPIO pin D2 (GPIO4) of the ESP8266.
 - Connect the soil moisture sensor to the analog pin A0.
+  ![image](https://github.com/user-attachments/assets/79f2f527-a068-4bba-a714-07551c9f8841)
+  ![image](https://github.com/user-attachments/assets/cfe6fd12-e164-4182-a5e2-1d7c464a6c23)
+
+
 
 ## Software Setup
 - Ensure you have the Arduino IDE installed. Download it from the Arduino website.
